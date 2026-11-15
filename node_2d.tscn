@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dvgbybtr4gtor"]
+
+[ext_resource type="Script" path="res://scripts/game.gd" id="1_game"]
+
+[node name="LynxExpedition" type="Node2D" unique_id=415042496]
+script = ExtResource("1_game")
